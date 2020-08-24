@@ -1,6 +1,6 @@
 # file
 
-Encrypt PDF files in style
+Encrypt PDF files in python
 
 # HOW to
 
